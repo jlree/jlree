@@ -1,17 +1,23 @@
-### Hi there 👋
+# 이지원입니다! 🌔
+- **Email**: jiwon0401@gmail.com
+- **Blog**: https://jionn2.tistory.com
+- **Github**: https://github.com/jlree
 
-<!--
-**jlree/jlree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Metrics](/github-metrics.svg
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![Metrics](/github-metrics.svg) 
+## Summary
+> ios 앱 개발자를 목표로 하고 있습니다.
+> iosのアプリの開発者を目指しています。
+
+
+## Skills :bulb:
+**Tech** :
+한 번 이상 다루어 본 기술들      
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Selenium-43b02a?style=flat-square&logo=Selenium&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"></a>
+
