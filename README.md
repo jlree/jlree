@@ -7,8 +7,13 @@
 
 
 ## Summary
-> ios 앱 개발자를 목표로 하고 있습니다.
+> ios 앱 개발자를 목표로 하고 있습니다.<br>
 > iosのアプリの開発者を目指しています。
+
+## 공부하고 있는 것 📑
+PostgreSQL
+Django
+swift
 
 
 ## Skills :bulb:
@@ -20,4 +25,6 @@
 <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"></a>
 
+- Beautiful Soup, Selenium 활용한 데이터 크롤링
