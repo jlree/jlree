@@ -6,20 +6,26 @@
 ![Metrics](/github-metrics.svg)
 
 
-## Summary 🥅
+## Goal 🥅
 > ios 앱 개발자를 목표로 하고 있습니다.<br>
 > iosのアプリの開発者を目指しています。
 
-## 공부하고 있는 것 📑
+
+## What I'm studying 📑
 PostgreSQL
 Django
 swift
 frontend
 
 
+## 참고 사이트 💻
+**search-korea**: https://limeeyojung.tistory.com/12"<br>
+**search-japan**: "https://qiita.com/"
+
+
 ## Skills :bulb:
 **Tech** :
-한 번 이상 다루어 본 기술들      
+한 번 이상 다루어 본 기술<br>      
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Selenium-43b02a?style=flat-square&logo=Selenium&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
