@@ -3,10 +3,10 @@
 - **Blog**: https://jionn2.tistory.com
 - **Github**: https://github.com/jlree
 
-![Metrics](/github-metrics.svg
+![Metrics](/github-metrics.svg)
 
 
-## Summary
+## Summary 🥅
 > ios 앱 개발자를 목표로 하고 있습니다.<br>
 > iosのアプリの開発者を目指しています。
 
@@ -14,6 +14,7 @@
 PostgreSQL
 Django
 swift
+frontend
 
 
 ## Skills :bulb:
@@ -26,5 +27,7 @@ swift
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"></a>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"></a>
 
 - Beautiful Soup, Selenium 활용한 데이터 크롤링
+- cnn으로 이미지 분류 모델 만들기
