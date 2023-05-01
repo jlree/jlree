@@ -4,6 +4,7 @@
 - **Github**: https://github.com/jlree
 
 ![](https://github.com/yonsei-app-dev-club/yonsei-app-dev-club-2022/raw/main/github-metrics-serithemage.svg)
+<img src="https://ghchart.rshah.org/jlree" />
 
 
 ![Metrics](/github-metrics.svg)
