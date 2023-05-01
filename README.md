@@ -3,6 +3,9 @@
 - **Blog**: https://jionn2.tistory.com
 - **Github**: https://github.com/jlree
 
+![](https://github.com/yonsei-app-dev-club/yonsei-app-dev-club-2022/raw/main/github-metrics-serithemage.svg)
+
+
 ![Metrics](/github-metrics.svg)
 
 
