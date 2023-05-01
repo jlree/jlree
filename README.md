@@ -1,4 +1,4 @@
-# 이지원입니다! 🌔
+# 이지원(jiwon Lee/李知沅) 🌔
 - **Email**: jiwon0401@gmail.com
 - **Blog**: https://jionn2.tistory.com
 - **Github**: https://github.com/jlree
