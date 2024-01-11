@@ -13,7 +13,6 @@
 ## What I'm studying 📑
 PostgreSQL<br>
 Django<br>
-swift<br>
 frontend
 
 
