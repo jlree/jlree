@@ -10,11 +10,6 @@
 ![Metrics](/github-metrics.svg)
 
 
-## Goal 🏹
-> ios 앱 개발자를 목표로 하고 있습니다.<br>
-> iosのアプリの開発者を目指しています。
-
-
 ## What I'm studying 📑
 PostgreSQL<br>
 Django<br>
